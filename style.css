@@ -1218,8 +1218,6 @@ body {
 }
 
 #es-garnier.es-garnier .es-cross__img {
-  max-width: 100%;
-  display: block;
   margin: 0 auto;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
